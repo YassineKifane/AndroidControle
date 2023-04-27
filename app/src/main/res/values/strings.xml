@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Selling Houses</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="txt1">Welcome !</string>
+    <string name="txt3">Convertire</string>
+    <string name="txt4">Entrer Le Montant En Euro</string>
+    <string name="txt2">To Our House\'s Selling App</string>
+    <string name="txt5">Calculer</string>
+    <string name="txt6">Houses</string>
+
+</resources>
