@@ -8,16 +8,16 @@ Controle : Réalisation d'une application Android contenant :
 
 ## Interfaces
 
-### Interface 1: home Page
+### Interface 1: Home Page
 
 
 ![Login Page](/home.jpeg)
 
-### Interface 2: gallerie Page
+### Interface 2: Blog Page
 
 ![Show All Patients](/blog.jpeg)
 
-### Interface 3: convert to mad 
+### Interface 3: Convert Euro To Mad
 
 ![Show All Patients](/calcul.jpeg)
 ![Show All Patients](/calcul2.jpeg)
