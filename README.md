@@ -11,17 +11,17 @@ Controle : Réalisation d'une application Android contenant :
 ### Interface 1: Home Page
 
 
-![Login Page](/home.jpeg)
+![home](/home.jpeg)
 
 ### Interface 2: Blog Page
 
-![Show All Patients](/blog.jpeg)
+![blog](/blog.jpeg)
 
 ### Interface 3: Convert Euro To Mad
 
-![Show All Patients](/calcul.jpeg)
-![Show All Patients](/calcul2.jpeg)
+![calc](/calcul.jpeg)
+![calc2](/calcul2.jpeg)
 
-### Interface 2: Menu Page
+### Interface 4: Menu Page
 
-![Show All Patients](/menu.jpeg)
+![menu](/menu.jpeg)
